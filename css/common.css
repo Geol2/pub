@@ -1,0 +1,23 @@
+.black {
+    background-color: black;
+}
+
+.h-75 {
+    height: 75px;
+}
+
+.h-300 {
+    height: 300px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.z-index-100 {
+    z-index: 100;
+}
